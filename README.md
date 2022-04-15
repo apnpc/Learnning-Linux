@@ -12,6 +12,12 @@ Linux是一个开源的操作系统，我们通常所说的Linux系统，是指�
 
 ![chapters of this book](images/chapters-of-this-book.png)
 
+### 1.2 开始之前
+
+在阅读本书之前希望您准备以下环境：
+
+- 一台可以上网电脑，CPU 4核、内存 8G 以上、空闲存储空间 60 G
+
 ## 2. 如何使用本书
 
 ### 2.1 在线使用
