@@ -16,3 +16,8 @@
 ## Shell
 
 * [1.shell 基础知识](shell/1.shell%20基础知识.md)
+
+## Shell 脚本
+
+- [1.shell 脚本](shell-script/1.shell 脚本.md) 
+- [bash 特殊字符](shell-script/bash 特殊字符.md) 
