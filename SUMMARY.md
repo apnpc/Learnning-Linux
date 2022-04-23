@@ -1,4 +1,4 @@
-# Your Book Title
+# true
 
 - 1 System
   * [1.计算机组成概述](1_system/1.计算机组成概述.md)
@@ -38,5 +38,8 @@
 - 8 Networking
   * [1.网络概述](8_networking/1.网络概述.md)
   * [2.TCP-IP 协议栈](8_networking/2.TCP-IP%20协议栈.md)
+- 9 Observability
+  * [系统观测](9_observability/系统观测.md)
 - Addendum
   * [rg 命令详解](addendum/rg%20命令详解.md)
+  * [现代命令](addendum/现代命令.md)
