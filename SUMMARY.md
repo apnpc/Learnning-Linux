@@ -51,3 +51,4 @@
   * [rg 命令详解](addendum/rg%20命令详解.md)
   * [常见任务清单](addendum/常见任务清单.md)
   * [现代命令](addendum/现代命令.md)
+  * [I/O 重定向（包括管道）](addendum/IO重定向.md)
