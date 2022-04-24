@@ -48,6 +48,7 @@
   * [10.5.其它现代和未来产品](10_advanced/10.5.其它现代和未来产品.md)
   * [参考](10_advanced/参考.md)
 - 参考
-  * [rg 命令详解](addendum/rg%20命令详解.md)
+  * [rg 命令详解](addendum/rg命令详解.md)
   * [常见任务清单](addendum/常见任务清单.md)
   * [现代命令](addendum/现代命令.md)
+  * [Docker快速操作手册](addendum/Docker快速操作手册.md) 
