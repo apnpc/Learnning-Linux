@@ -52,3 +52,4 @@
   * [常见任务清单](addendum/常见任务清单.md)
   * [现代命令](addendum/现代命令.md)
   * [Docker快速操作手册](addendum/Docker快速操作手册.md) 
+  * [I/O 重定向（包括管道）](addendum/IO重定向.md)
